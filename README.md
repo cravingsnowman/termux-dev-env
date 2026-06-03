@@ -1,2 +1,2 @@
 # termux-dev-env
-Termux setup script to configure a dev-focusedbenvironment
+Termux setup script to configure a dev-focused environment
